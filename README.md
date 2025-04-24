@@ -1,6 +1,6 @@
 ### 👋 Hi there, I’m Finn
 
-🎓 CS student at Baruch College  
-🔐 Interested in low-level systems programming & security engineering  
-🛠️ Working with Python, C, and Linux  
-📚 Currently learning Rust and embedded systems  
+📚 CS student @ Baruch College | Math minor  
+🔐 Focused on low-level systems & security engineering  
+🛠️ Building CLI tools in Python, C, and Bash  
+📝 Currently developing [SysMon](https://github.com/finn-mo/SysMon) — a cross-platform system monitor  
