@@ -1,4 +1,4 @@
-### 👋 Hi there, I’m Finn
+### 👋 Hi, I’m Finn
 
 📚 CS student @ Baruch College | Math minor  
 🔐 Focused on low-level systems & security engineering  
